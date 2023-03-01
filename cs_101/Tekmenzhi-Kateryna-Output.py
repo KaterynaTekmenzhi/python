@@ -1,4 +1,4 @@
-# Kateryna Tekmenzhi, February 18, 2023 
+# Kateryna Tekmenzhi, February 27, 2023 
 fhand = open('cs_101/mbox.txt')
 outputfile = open('cs_101/emails_output.txt', 'w')
 counter_com = 0
@@ -18,7 +18,7 @@ for line in fhand:
     if line.find('.org') != -1: 
         counter_org += 1
         write_to_file = True
-        
+
     if write_to_file:
         outputfile.write(line)
     
