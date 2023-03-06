@@ -1,7 +1,5 @@
 # Kateryna Tekmenzhi, March 1, 2023
 
-# Write a program that uses random to generate a random grade (4.00 grading scale) inside a loop, and that loop keeps running until it generates a 4.00 GPA. Once you have randomly generated a 4.00, print the number of iterations it took to randomly generate.
-
 # import random library
 import random
 
