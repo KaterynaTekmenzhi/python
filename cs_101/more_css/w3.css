@@ -1,0 +1,15 @@
+/* Kateryna Tekmenzhi, March 7, 2023, CS101 */
+
+body {
+	background-color:light grey
+}
+
+h1 {
+	color:blue;
+	margin-left: 40px
+}
+
+p {
+	color:green;
+	border: 4px solid red
+}
